@@ -1,0 +1,101 @@
+body {
+font-family: 'Courier New', monospace;
+background-color: #282c34;
+color: #eee;
+line-height: 1.6;
+}
+
+
+.blog {
+margin: auto;
+max-width: 800px;
+}
+
+
+h1 {
+font-size: 50px;
+font-weight: 300;
+color: #ff7f50;
+text-align: center;
+}
+
+
+.card {
+padding: 20px;
+margin-bottom: 30px;
+background-color: #343a40;
+text-align: center;
+border-radius:20px;
+}
+
+
+a {
+text-decoration: none;
+color: #ff7f50;
+}
+
+button {
+border-radius: 10px;
+background-color: #282c34;
+color: white;
+}
+
+input {
+border-radius: 10px;
+}
+
+textarea {
+border-radius: 10px;
+}
+
+form {
+background-color: #343a40;
+padding: 10px;
+border-radius:20px;
+margin: auto;
+max-width: 250px;
+}
+
+.post{
+max-width: 800px;
+margin: auto;
+border-radius:20px;
+background-color: #343a40;
+padding: 10px;
+text-align: center;
+}
+
+.author{
+color: #ff7f50;
+text-align: right;
+}
+
+.message{
+color: red;
+}
+
+.button{
+display: inline-block;
+padding: 5px;
+text-align: center;
+font-size: 12px;
+}
+
+.likebtn{
+font-size: 25px;
+}
+
+h2{
+text-align: center;
+color: #ff7f50;
+}
+
+.comment{
+max-width: 800px;
+margin: auto;
+margin-bottom: 20px;
+border-radius:20px;
+background-color: #343a40;
+padding: 10px;
+text-align: center;
+}
